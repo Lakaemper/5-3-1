@@ -1,3 +1,3 @@
 # 5-3-1 Drum Timer for Arduino Nano
-![](https://github.com/Lakaemper/5-3-1/blob/main/Images/test.png)
+![](https://github.com/Lakaemper/5-3-1/blob/main/Images/metro531.jpg)
 
