@@ -1,7 +1,7 @@
 /*
  * 5 - 3 - 1 Drum Timer
  * Using 20x4 LCD and Rotary Knob
- * Written for Arduino Nano
+ * Written for Arduino Nano (Atmega 328P old bootloader)
  */
 
 #include "EEPROM.h" 
